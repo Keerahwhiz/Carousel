@@ -1,4 +1,5 @@
 # Carousel
 A slideshow showing several images
-It can also be sourced from https://github.com/Keerahwhiz/keerahwhiz..github.io
+
+It can also be sourced from https://Keerahwhiz.github.io/Carousel
 
